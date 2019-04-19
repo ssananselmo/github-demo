@@ -1,7 +1,7 @@
 Test Git Quick Start demo - branches
 Copyright by Santi 2019
-Añado esta línea desde la rama master
 Estos ficheros de Renault tienen mala pinta
+Añado esta línea en rama realwork
 
 -rw-r--r--    1 ediswit  ediswit      314360 07 abr 23:05 O09317801299870000001]OB2BCONECTA]ODT.RNUR.INDR]230320000]OFTP-20180407-230320000.vlt
 -rw-r--r--    1 ediswit  ediswit       19682 07 abr 23:06 O09317801299870000001]OB2BCONECTA]ODT.RNUR.INDR]230320000]OFTP-20180407-230320000.vlt.17

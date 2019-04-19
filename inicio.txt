@@ -5,6 +5,7 @@ Añado esta línea en rama realwork
 Añadiendo cambios antes de tratar con conflictos en rebase si o si
 Añado cambios en master cuando ya se ha hecho alguno en la rama bigtrouble
 Cambios desde rama bigtrouble
+Añado nueva línea desde bigtrouble
 
 -rw-r--r--    1 ediswit  ediswit      314360 07 abr 23:05 O09317801299870000001]OB2BCONECTA]ODT.RNUR.INDR]230320000]OFTP-20180407-230320000.vlt
 -rw-r--r--    1 ediswit  ediswit       19682 07 abr 23:06 O09317801299870000001]OB2BCONECTA]ODT.RNUR.INDR]230320000]OFTP-20180407-230320000.vlt.17

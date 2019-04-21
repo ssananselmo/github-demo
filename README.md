@@ -8,4 +8,4 @@ Añadiendo más cambios desde rama myfeature
 Please fork this repository and then issue pull requests for review.
 
 ### Copyright
-2019 Git Training by Santi
+2019 Git Training by Santi. All rights reserved
